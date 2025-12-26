@@ -2,8 +2,5 @@ First File for commit
 Has now modified
 Modified from github
 First line for new branch -- This is base for both the branches
-<<<<<<< HEAD
 Main branch conflicting line
-=======
-Dev branch conflicting line
->>>>>>> dev
+
